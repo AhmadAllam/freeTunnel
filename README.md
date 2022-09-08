@@ -65,7 +65,7 @@ now if you want to scan ip just copy it from
 * install tools
 * This must be run in the first time you open the script for you do not face problems During running
 * help
-** to running this help file❤️
+* to running this help file❤️
 
 ## Authors
 
