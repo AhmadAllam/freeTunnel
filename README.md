@@ -69,6 +69,6 @@ to running this help file❤️
 
 ## Authors
 
-dev. AhmadAllam
-site. [@echo_me](telegram)
+* dev. AhmadAllam
+* site. [@echo_me](telegram)
 * don't forget Palestine❤️
