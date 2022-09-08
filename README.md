@@ -68,5 +68,5 @@ now if you want to scan ip just copy it from
 ## Authors
 
 * dev. AhmadAllam
-    * site. [telegram](echo_me)
+    * my account. [telegram](https://t.me/echo_me)
     * don't forget Palestine❤️
