@@ -36,7 +36,7 @@ this tool made by love for
  #unlimited_internet_in_egypt
 ```
 * find
-* it's tool to find bughost with domain or ip .
+    * it's tool to find bughost with domain or ip .
 this tool change the last 3 numbers in ip
 if you choose it please write ip only like
 10.10.10.10
